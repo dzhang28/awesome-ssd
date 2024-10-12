@@ -15,5 +15,5 @@ A curated list of resources related to (NAND Flash-Based) Solid State Drives
   [OpenSSD](https://github.com/Cosmos-OpenSSD/Cosmos-plus-OpenSSD)
 
 ## Specifications
-  [NVMe specifications](https://nvmexpress.org/specifications/)
+  [NVMe specifications](https://nvmexpress.org/specifications/)  
   [ONFI specifications](https://onfi.org/specs.html)
