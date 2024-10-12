@@ -12,5 +12,6 @@ A curated list of resources related to (NAND Flash-Based) Solid State Drives
 
   
 ## Opensource Projects
+  [OpenSSD](https://github.com/Cosmos-OpenSSD/Cosmos-plus-OpenSSD)
 
 ## Specifications
