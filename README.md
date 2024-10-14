@@ -16,7 +16,17 @@ A curated list of resources related to (NAND Flash-Based) Solid State Drives
   [OpenNFM](https://code.google.com/archive/p/opennfm/source/default/source)  
   [LightNVM](https://github.com/OpenChannelSSD/liblightnvm)  
   [FlashSIM](https://github.com/MatiasBjorling/flashsim)  
-  [DiskSim](https://github.com/westerndigitalcorporation/DiskSim)
+  [DiskSim](https://github.com/westerndigitalcorporation/DiskSim)  
+  [SEF](https://github.com/SoftwareEnabledFlash/SEF-SDK)  
+  [FlashSimulator](https://github.com/kukania/FlashSimulator)  
+  [VSSIM](https://github.com/ESOS-Lab/VSSIM)  
+  [ssdsim](https://github.com/fadhilkurnia/ssdsim)  
+  [dhara](https://github.com/dlbeer/dhara)  
+  [MQSim](https://github.com/CMU-SAFARI/MQSim)  
+  [FlashFTLDriver](https://github.com/dgist-datalab/FlashFTLDriver)  
+  [FEMU](https://github.com/MoatLab/FEMU)  
+  [simpleSSD](https://github.com/SimpleSSD/SimpleSSD)  
+  [3Dsim](https://github.com/zuoerfeng/3Dsim)
 
 ## Specifications
   [NVMe specifications](https://nvmexpress.org/specifications/)  
