@@ -12,8 +12,11 @@ A curated list of resources related to (NAND Flash-Based) Solid State Drives
 
   
 ## Opensource Projects
-  [OpenSSD](https://github.com/Cosmos-OpenSSD/Cosmos-plus-OpenSSD)
+  [OpenSSD](https://github.com/Cosmos-OpenSSD/Cosmos-plus-OpenSSD)  
+  [OpenNFM](https://code.google.com/archive/p/opennfm/source/default/source)  
+  [LightNVM](https://github.com/OpenChannelSSD/liblightnvm)  
+  [FlashSIM](https://github.com/MatiasBjorling/flashsim)
 
 ## Specifications
   [NVMe specifications](https://nvmexpress.org/specifications/)  
-  [ONFI specifications](https://onfi.org/specs.html)
+  [ONFI specifications](https://onfi.org/specs.html)  
