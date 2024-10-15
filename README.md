@@ -1,6 +1,9 @@
 # awesome-ssd
 A curated list of resources related to (NAND Flash-Based) Solid State Drives
 
+## Tutorials
+   [Solid State Drives 101 educational series - by cactus-tech](https://www.cactus-tech.com/resources/blog/details/solid-state-drives-101)
+
 ## Papers
   [The Bleak Future of NAND Flash Memory, 2012](https://www.usenix.org/system/files/conference/fast12/grupp2-8-12.pdf)  
   [The Unwritten Contract of Solid State Drives, 2017](https://pages.cs.wisc.edu/~jhe/eurosys17-he.pdf)  
