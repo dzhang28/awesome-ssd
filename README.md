@@ -9,7 +9,8 @@ A curated list of resources related to (NAND Flash-Based) Solid State Drives
   [The Unwritten Contract of Solid State Drives, 2017](https://pages.cs.wisc.edu/~jhe/eurosys17-he.pdf)  
 
 ## Courses
-  [Understanding and Designing Modern NAND Flash-Based SSDs](https://safari.ethz.ch/projects_and_seminars/spring2023/doku.php?id=modern_ssds)
+  [Computer Architecture - Lecture 26: Flash Memory and Solid-State Drives (ETH Zürich, Fall 2020)](https://www.youtube.com/watch?v=rninK6KWBeM)  
+  [Understanding and Designing Modern NAND Flash-Based SSDs](https://safari.ethz.ch/projects_and_seminars/spring2023/doku.php?id=modern_ssds)  
 
 ## Presentations
   [Software-Enabled Flash™ (SEF) technology](https://softwareenabledflash.org/videos/)
