@@ -33,8 +33,8 @@ A curated list of resources related to (NAND Flash-Based) Solid State Drives
   [FlashFTLDriver](https://github.com/dgist-datalab/FlashFTLDriver)  
   [FEMU](https://github.com/MoatLab/FEMU)  
   [simpleSSD](https://github.com/SimpleSSD/SimpleSSD)  
-  [3Dsim](https://github.com/zuoerfeng/3Dsim)
-  [wiscsee](https://github.com/junhe/wiscsee)
+  [3Dsim](https://github.com/zuoerfeng/3Dsim)  
+  [wiscsee](https://github.com/junhe/wiscsee)  
 
 ## Specifications
   [NVMe specifications](https://nvmexpress.org/specifications/)  
