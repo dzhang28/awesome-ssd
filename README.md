@@ -5,10 +5,12 @@ A curated list of resources related to (NAND Flash-Based) Solid State Drives
    [Solid State Drives 101 educational series - by cactus-tech](https://www.cactus-tech.com/resources/blog/details/solid-state-drives-101)
 
 ## Papers
+  [Design Tradeoffs for SSD Performance, 2008](https://www.usenix.org/legacy/event/usenix08/tech/full_papers/agrawal/agrawal.pdf)  
   [DFTL: A Flash Translation Layer Employing Demand-based Selective Caching of Page-level Address Mapping, 2008](https://courses.grainger.illinois.edu/ece598ms/fa2019/papers/paper71.pdf)  
   [The Bleak Future of NAND Flash Memory, 2012](https://www.usenix.org/system/files/conference/fast12/grupp2-8-12.pdf)  
   [The Unwritten Contract of Solid State Drives, 2017](https://pages.cs.wisc.edu/~jhe/eurosys17-he.pdf)  
   [SimpleSSD: Modeling Solid State Drives for Holistic System Simulation, 2017](https://arxiv.org/pdf/1705.06419)  
+  [Design Tradeoffs for SSD Reliability, 2019](https://www.usenix.org/system/files/fast19-kim-bryan.pdf)  
 
 ## Courses
   [Computer Architecture - Lecture 26: Flash Memory and Solid-State Drives (ETH Zürich, Fall 2020)](https://www.youtube.com/watch?v=rninK6KWBeM)  
