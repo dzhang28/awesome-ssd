@@ -11,6 +11,7 @@ A curated list of resources related to (NAND Flash-Based) Solid State Drives
   [The Unwritten Contract of Solid State Drives, 2017](https://pages.cs.wisc.edu/~jhe/eurosys17-he.pdf)  
   [SimpleSSD: Modeling Solid State Drives for Holistic System Simulation, 2017](https://arxiv.org/pdf/1705.06419)  
   [Design Tradeoffs for SSD Reliability, 2019](https://www.usenix.org/system/files/fast19-kim-bryan.pdf)  
+  [We Ain’t Afraid of No File Fragmentation: Causes and Prevention of Its Performance Impact on Modern Flash SSDs, 2024](https://www.usenix.org/system/files/fast24-jun.pdf)  
 
 ## Courses
   [Computer Architecture - Lecture 26: Flash Memory and Solid-State Drives (ETH Zürich, Fall 2020)](https://www.youtube.com/watch?v=rninK6KWBeM)  
