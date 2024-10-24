@@ -12,6 +12,7 @@ A curated list of resources related to (NAND Flash-Based) Solid State Drives
   [Software-Enabled Flash™ (SEF) technology](https://softwareenabledflash.org/videos/)
 
 ## Sites & Blogs
+  [storagesearch](https://www.storagesearch.com/)  
   [memblaze blogs](https://www.memblaze.com/innovate/technical-articles)  
 
 ## Specifications
