@@ -2,7 +2,7 @@
 A curated list of resources related to (NAND Flash-Based) Solid State Drives
 
 ## Tutorials
-   [Solid State Drives 101 educational series - by cactus-tech](https://www.cactus-tech.com/resources/blog/details/solid-state-drives-101)
+  [Solid State Drives 101 educational series - by cactus-tech](https://www.cactus-tech.com/resources/blog/details/solid-state-drives-101)
 
 ## Courses
   [Computer Architecture - Lecture 26: Flash Memory and Solid-State Drives (ETH Zürich, Fall 2020)](https://www.youtube.com/watch?v=rninK6KWBeM)  
@@ -20,13 +20,13 @@ A curated list of resources related to (NAND Flash-Based) Solid State Drives
   [ONFI specifications](https://onfi.org/specs.html)  
 
 ## Papers
-  [Design Tradeoffs for SSD Performance, 2008](https://www.usenix.org/legacy/event/usenix08/tech/full_papers/agrawal/agrawal.pdf)  
-  [DFTL: A Flash Translation Layer Employing Demand-based Selective Caching of Page-level Address Mapping, 2008](https://courses.grainger.illinois.edu/ece598ms/fa2019/papers/paper71.pdf)  
-  [The Bleak Future of NAND Flash Memory, 2012](https://www.usenix.org/system/files/conference/fast12/grupp2-8-12.pdf)  
-  [The Unwritten Contract of Solid State Drives, 2017](https://pages.cs.wisc.edu/~jhe/eurosys17-he.pdf)  
-  [SimpleSSD: Modeling Solid State Drives for Holistic System Simulation, 2017](https://arxiv.org/pdf/1705.06419)  
-  [Design Tradeoffs for SSD Reliability, 2019](https://www.usenix.org/system/files/fast19-kim-bryan.pdf)  
-  [We Ain’t Afraid of No File Fragmentation: Causes and Prevention of Its Performance Impact on Modern Flash SSDs, 2024](https://www.usenix.org/system/files/fast24-jun.pdf)  
+  [[2008] Design Tradeoffs for SSD Performance](https://www.usenix.org/legacy/event/usenix08/tech/full_papers/agrawal/agrawal.pdf)  
+  [[2008] DFTL: A Flash Translation Layer Employing Demand-based Selective Caching of Page-level Address Mapping](https://courses.grainger.illinois.edu/ece598ms/fa2019/papers/paper71.pdf)  
+  [[2012] The Bleak Future of NAND Flash Memory](https://www.usenix.org/system/files/conference/fast12/grupp2-8-12.pdf)  
+  [[2017] The Unwritten Contract of Solid State Drives](https://pages.cs.wisc.edu/~jhe/eurosys17-he.pdf)  
+  [[2017] SimpleSSD: Modeling Solid State Drives for Holistic System Simulation](https://arxiv.org/pdf/1705.06419)  
+  [[2019] Design Tradeoffs for SSD Reliability](https://www.usenix.org/system/files/fast19-kim-bryan.pdf)  
+  [[2024] We Ain’t Afraid of No File Fragmentation: Causes and Prevention of Its Performance Impact on Modern Flash SSDs](https://www.usenix.org/system/files/fast24-jun.pdf)  
   
 ## Opensource Projects
   [OpenSSD](https://github.com/Cosmos-OpenSSD/Cosmos-plus-OpenSSD)  
@@ -56,3 +56,5 @@ A curated list of resources related to (NAND Flash-Based) Solid State Drives
 
 ## Misc
   [NVMe Overview](https://nvmexpress.org/wp-content/uploads/NVMe_Overview.pdf)  
+  [Goodbye FTL – Kioxia reconstructing flash drives with software-enabled flash](https://blocksandfiles.com/2022/08/01/goodbye-ftl-kioxia-reconstructing-flash-drives-with-sw-enabled-flash/)  
+  
