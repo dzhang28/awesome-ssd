@@ -39,6 +39,9 @@ A curated list of resources related to (NAND Flash-Based) Solid State Drives
   [3Dsim](https://github.com/zuoerfeng/3Dsim)  
   [wiscsee](https://github.com/junhe/wiscsee)  
 
+## Test Tools
+  [CrystalDiskMark](https://github.com/hiyohiyo/CrystalDiskMark)  
+
 ## Specifications
   [NVMe specifications](https://nvmexpress.org/specifications/)  
   [ONFI specifications](https://onfi.org/specs.html)  
