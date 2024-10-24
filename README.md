@@ -14,6 +14,7 @@ A curated list of resources related to (NAND Flash-Based) Solid State Drives
 ## Sites & Blogs
   [storagesearch](https://www.storagesearch.com/)  
   [memblaze blogs](https://www.memblaze.com/innovate/technical-articles)  
+  [Software-Enabled Flash white papers](https://softwareenabledflash.org/whitepapers/)  
 
 ## Specifications
   [NVMe specifications](https://nvmexpress.org/specifications/)  
