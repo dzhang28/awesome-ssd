@@ -41,6 +41,8 @@ A curated list of resources related to (NAND Flash-Based) Solid State Drives
 
 ## Test Tools
   [CrystalDiskMark](https://github.com/hiyohiyo/CrystalDiskMark)  
+  [fio](https://github.com/axboe/fio)  
+  [ezfio](https://github.com/earlephilhower/ezfio)  
 
 ## Specifications
   [NVMe specifications](https://nvmexpress.org/specifications/)  
