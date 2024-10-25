@@ -10,6 +10,8 @@ A curated list of resources related to (NAND Flash-Based) Solid State Drives
 
 ## Presentations
   [Software-Enabled Flash™ (SEF) technology](https://softwareenabledflash.org/videos/)
+  [Vault '19 - From Open-Channel SSDs to Zoned Namespaces](https://www.usenix.org/conference/vault19/presentation/bjorling)    
+  [NVMe® Zoned Namespace SSDs & The Zoned Storage Linux Software Ecosystem](https://www.youtube.com/watch?v=lcYdE_S5o8Q)  
 
 ## Sites & Blogs
   [storagesearch](https://www.storagesearch.com/)  
