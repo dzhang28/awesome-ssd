@@ -29,6 +29,7 @@ A curated list of resources related to (NAND Flash-Based) Solid State Drives
   [[2017] The Unwritten Contract of Solid State Drives](https://pages.cs.wisc.edu/~jhe/eurosys17-he.pdf)  
   [[2017] SimpleSSD: Modeling Solid State Drives for Holistic System Simulation](https://arxiv.org/pdf/1705.06419)  
   [[2019] Design Tradeoffs for SSD Reliability](https://www.usenix.org/system/files/fast19-kim-bryan.pdf)  
+  [[2023] SplitZNS: Towards an Efficient LSM-Tree on Zoned Namespace SSDs](https://dl.acm.org/doi/pdf/10.1145/3608476)  
   [[2024] We Ain’t Afraid of No File Fragmentation: Causes and Prevention of Its Performance Impact on Modern Flash SSDs](https://www.usenix.org/system/files/fast24-jun.pdf)  
   
 ## Opensource Projects
