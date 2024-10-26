@@ -27,6 +27,7 @@ A curated list of resources related to (NAND Flash-Based) Solid State Drives
   [[1993] An Implementation of a Log-Structured File System for UNIX](https://www.seltzer.com/assets/publications/An-Implementation-of-a-LogStructured-File-System-for-UNIX.pdf)  
   [[2008] Design Tradeoffs for SSD Performance](https://www.usenix.org/legacy/event/usenix08/tech/full_papers/agrawal/agrawal.pdf)  
   [[2008] DFTL: A Flash Translation Layer Employing Demand-based Selective Caching of Page-level Address Mapping](https://courses.grainger.illinois.edu/ece598ms/fa2019/papers/paper71.pdf)  
+  [[2014] Design and Implementation of a Log-Structured File System for Flash-Based Solid State Drives](https://cosmoss-jigu.github.io/pages/pubs/sfs-min-tc14.pdf)  
   [[2012] The Bleak Future of NAND Flash Memory](https://www.usenix.org/system/files/conference/fast12/grupp2-8-12.pdf)  
   [[2017] The Unwritten Contract of Solid State Drives](https://pages.cs.wisc.edu/~jhe/eurosys17-he.pdf)  
   [[2017] SimpleSSD: Modeling Solid State Drives for Holistic System Simulation](https://arxiv.org/pdf/1705.06419)  
