@@ -5,6 +5,7 @@ A curated list of resources related to (NAND Flash-Based) Solid State Drives
   [Solid State Drives 101 educational series - by cactus-tech](https://www.cactus-tech.com/resources/blog/details/solid-state-drives-101)  
   [Flash memory guide to architecture, types and products](https://www.techtarget.com/searchstorage/Flash-memory-guide-to-architecture-types-and-products)  
   [Understanding NAND Flash Factory Programming - by BPM](https://bpmmicro.com/understanding-nand-flash-factory-programming/)  
+  [NAND Flash 101: An Introduction to NAND Flash and How to Design It In to Your Next Product - by Micron](https://user.eng.umd.edu/~blj/CS-590.26/micron-tn2919.pdf)  
 
 ## Courses
   [Computer Architecture - Lecture 26: Flash Memory and Solid-State Drives (ETH Zürich, Fall 2020)](https://www.youtube.com/watch?v=rninK6KWBeM)  
