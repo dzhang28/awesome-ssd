@@ -24,6 +24,7 @@ A curated list of resources related to (NAND Flash-Based) Solid State Drives
 ## Specifications
   [NVMe specifications](https://nvmexpress.org/specifications/)  
   [ONFI specifications](https://onfi.org/specs.html)  
+  [SPC TRACE FILE FORMAT SPECIFICATION v1.01](https://skulddata.cs.umass.edu/traces/storage/SPC-Traces.pdf)  
 
 ## Papers
   [[1993] An Implementation of a Log-Structured File System for UNIX](https://www.seltzer.com/assets/publications/An-Implementation-of-a-LogStructured-File-System-for-UNIX.pdf)  
