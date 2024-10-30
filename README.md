@@ -27,6 +27,7 @@ A curated list of resources related to (NAND Flash-Based) Solid State Drives
   [SPC TRACE FILE FORMAT SPECIFICATION v1.01](https://skulddata.cs.umass.edu/traces/storage/SPC-Traces.pdf)  
 
 ## Papers
+  [[1991] The Design and Implementation of a Log-Structured File System](https://people.eecs.berkeley.edu/~brewer/cs262/LFS.pdf)  
   [[1993] An Implementation of a Log-Structured File System for UNIX](https://www.seltzer.com/assets/publications/An-Implementation-of-a-LogStructured-File-System-for-UNIX.pdf)  
   [[2008] Design Tradeoffs for SSD Performance](https://www.usenix.org/legacy/event/usenix08/tech/full_papers/agrawal/agrawal.pdf)  
   [[2008] DFTL: A Flash Translation Layer Employing Demand-based Selective Caching of Page-level Address Mapping](https://courses.grainger.illinois.edu/ece598ms/fa2019/papers/paper71.pdf)  
