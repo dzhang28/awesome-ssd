@@ -74,5 +74,6 @@ A curated list of resources related to (NAND Flash-Based) Solid State Drives
 ## Misc
   [NVMe Overview](https://nvmexpress.org/wp-content/uploads/NVMe_Overview.pdf)  
   [NVMe Namespaces](https://nvmexpress.org/resource/nvme-namespaces/)  
+  [NVMe Technology Power Features](https://nvmexpress.org/resource/technology-power-features/)  
   [Goodbye FTL – Kioxia reconstructing flash drives with software-enabled flash](https://blocksandfiles.com/2022/08/01/goodbye-ftl-kioxia-reconstructing-flash-drives-with-sw-enabled-flash/)  
   
