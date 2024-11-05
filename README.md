@@ -29,6 +29,7 @@ A curated list of resources related to (NAND Flash-Based) Solid State Drives
 ## Papers
   [[1991] The Design and Implementation of a Log-Structured File System](https://people.eecs.berkeley.edu/~brewer/cs262/LFS.pdf)  
   [[1993] An Implementation of a Log-Structured File System for UNIX](https://www.seltzer.com/assets/publications/An-Implementation-of-a-LogStructured-File-System-for-UNIX.pdf)  
+  [[2006] FAST: An Efficient Flash Translation Layer for Flash Memory](https://dl.ifip.org/db/conf/euc/eucw2006/LeeCP06.pdf)  
   [[2008] Design Tradeoffs for SSD Performance](https://www.usenix.org/legacy/event/usenix08/tech/full_papers/agrawal/agrawal.pdf)  
   [[2008] DFTL: A Flash Translation Layer Employing Demand-based Selective Caching of Page-level Address Mapping](https://courses.grainger.illinois.edu/ece598ms/fa2019/papers/paper71.pdf)  
   [[2011] CAFTL: A Content-Aware Flash Translation Layer Enhancing the Lifespan of Flash Memory based Solid State Drives](https://www.usenix.org/legacy/events/fast11/tech/full_papers/Chen.pdf)  
