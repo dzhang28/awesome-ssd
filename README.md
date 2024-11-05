@@ -6,6 +6,7 @@ A curated list of resources related to (NAND Flash-Based) Solid State Drives
   [Flash memory guide to architecture, types and products](https://www.techtarget.com/searchstorage/Flash-memory-guide-to-architecture-types-and-products)  
   [Understanding NAND Flash Factory Programming - by BPM](https://bpmmicro.com/understanding-nand-flash-factory-programming/)  
   [NAND Flash 101: An Introduction to NAND Flash and How to Design It In to Your Next Product - by Micron](https://user.eng.umd.edu/~blj/CS-590.26/micron-tn2919.pdf)  
+  [Understanding Flash: The Flash Translation Layer](https://flashdba.com/2014/09/17/understanding-flash-the-flash-translation-layer/)  
 
 ## Courses
   [Computer Architecture - Lecture 26: Flash Memory and Solid-State Drives (ETH Zürich, Fall 2020)](https://www.youtube.com/watch?v=rninK6KWBeM)  
@@ -41,7 +42,6 @@ A curated list of resources related to (NAND Flash-Based) Solid State Drives
   [[2016] Performance Evaluation of Dynamic Page Allocation Strategies in SSDs](https://tavakkol.ch/downloads/papers/A.Tavakkol-TOMPECS2016.pdf)  
   [[2017] The Unwritten Contract of Solid State Drives](https://pages.cs.wisc.edu/~jhe/eurosys17-he.pdf)  
   [[2017] SimpleSSD: Modeling Solid State Drives for Holistic System Simulation](https://arxiv.org/pdf/1705.06419)  
-  [2018] A Survey on Flash Translation Layer for NAND Flash Memory
   [[2019] Design Tradeoffs for SSD Reliability](https://www.usenix.org/system/files/fast19-kim-bryan.pdf)  
   [[2019] Parallel all the time: Plane Level Parallelism Exploration for High Performance SSDs](https://msstconference.org/MSST-history/2019/Research/ParallelAllTheTime.pdf)  
   [[2023] SplitZNS: Towards an Efficient LSM-Tree on Zoned Namespace SSDs](https://dl.acm.org/doi/pdf/10.1145/3608476)  
