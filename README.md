@@ -2,7 +2,7 @@
 A curated list of resources related to (NAND Flash-Based) Solid State Drives
 
 ## Tutorials
-  [Coding for SSDs](https://codecapsule.com/2014/02/12/coding-for-ssds-part-1-introduction-and-table-of-contents/)  
+  [Coding for SSDs - by Emmanuel Goossaert](https://codecapsule.com/2014/02/12/coding-for-ssds-part-1-introduction-and-table-of-contents/)  
   [Solid State Drives 101 educational series - by cactus-tech](https://www.cactus-tech.com/resources/blog/details/solid-state-drives-101)  
   [Flash memory guide to architecture, types and products](https://www.techtarget.com/searchstorage/Flash-memory-guide-to-architecture-types-and-products)  
   [Understanding NAND Flash Factory Programming - by BPM](https://bpmmicro.com/understanding-nand-flash-factory-programming/)  
