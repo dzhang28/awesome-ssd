@@ -41,6 +41,7 @@ A curated list of resources related to (NAND Flash-Based) Solid State Drives
   [[2016] Performance Evaluation of Dynamic Page Allocation Strategies in SSDs](https://tavakkol.ch/downloads/papers/A.Tavakkol-TOMPECS2016.pdf)  
   [[2017] The Unwritten Contract of Solid State Drives](https://pages.cs.wisc.edu/~jhe/eurosys17-he.pdf)  
   [[2017] SimpleSSD: Modeling Solid State Drives for Holistic System Simulation](https://arxiv.org/pdf/1705.06419)  
+  [2018] A Survey on Flash Translation Layer for NAND Flash Memory
   [[2019] Design Tradeoffs for SSD Reliability](https://www.usenix.org/system/files/fast19-kim-bryan.pdf)  
   [[2019] Parallel all the time: Plane Level Parallelism Exploration for High Performance SSDs](https://msstconference.org/MSST-history/2019/Research/ParallelAllTheTime.pdf)  
   [[2023] SplitZNS: Towards an Efficient LSM-Tree on Zoned Namespace SSDs](https://dl.acm.org/doi/pdf/10.1145/3608476)  
