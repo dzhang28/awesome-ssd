@@ -42,6 +42,7 @@ A curated list of resources related to (NAND Flash-Based) Solid State Drives
   [[2014] Design and Implementation of a Log-Structured File System for Flash-Based Solid State Drives](https://cosmoss-jigu.github.io/pages/pubs/sfs-min-tc14.pdf)  
   [[2015] CONTROLLER DESIGN FOR MULTICHANNEL NAND FLASH MEMORY FOR HIGHER EFFICIENCY IN SSD’S](https://ijret.org/volumes/2015v04/i04/IJRET20150404147.pdf)  
   [[2015] Refactored Design of I/O Architecture for Flash Storage](https://www.researchgate.net/publication/280310817_Refactored_Design_of_IO_Architecture_for_Flash_Storage)  
+  [[2015] A Large-Scale Study of Flash Memory Failures in the Field](https://users.ece.cmu.edu/~omutlu/pub/flash-memory-failures-in-the-field-at-facebook_sigmetrics15.pdf) 
   [[2016] Performance Evaluation of Dynamic Page Allocation Strategies in SSDs](https://tavakkol.ch/downloads/papers/A.Tavakkol-TOMPECS2016.pdf)  
   [[2017] The Unwritten Contract of Solid State Drives](https://pages.cs.wisc.edu/~jhe/eurosys17-he.pdf)  
   [[2017] SimpleSSD: Modeling Solid State Drives for Holistic System Simulation](https://arxiv.org/pdf/1705.06419)  
