@@ -52,6 +52,7 @@ A curated list of resources related to (NAND Flash-Based) Solid State Drives
   [[2020] Review and analysis of block allocation strategies in SSDs](https://www.academia.edu/44039154/IRJET_Review_and_analysis_of_block_allocation_strategies_in_SSDs)   
   [[2023] SplitZNS: Towards an Efficient LSM-Tree on Zoned Namespace SSDs](https://dl.acm.org/doi/pdf/10.1145/3608476)  
   [[2024] We Ain’t Afraid of No File Fragmentation: Causes and Prevention of Its Performance Impact on Modern Flash SSDs](https://www.usenix.org/system/files/fast24-jun.pdf)  
+  [[2025] ByteFS: System Support for (CXL-based) Memory-Semantic Solid-State Drives](https://arxiv.org/pdf/2501.04993)  
   
 ## Open Source Projects
   [OpenSSD](https://github.com/Cosmos-OpenSSD/Cosmos-plus-OpenSSD)  
